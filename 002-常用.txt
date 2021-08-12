@@ -1,3 +1,19 @@
+
+
+推送WMS失败:出库单插入失败，单据编号:CK20210812222,商品编码:[12100193]无可用库存
+
+
+
+
+
+阿诗丹顿按时
+
+
+
+
+
+
+
 LH2021080324368
 
 CK202108028966
@@ -27,7 +43,7 @@ inventory.report-库存盘点通知接口
 orderprocess.report-订单流水通知接口
 returnorder.confirm-退货入库单确认接口
 stockchange.report-库存异动通知接口
-stockout.confirm-出库单确认接口 
+stockout.confirm-出库单确认接口
 deliveryorder.create-发货单创建接口
 entryorder.create-入库单创建接口
 order.cancel-单据取消接口
@@ -78,7 +94,7 @@ WMS返回:出库单号:CK202108022226 单据状态:ACCEPT 描述信息:已接单
 
 
 
-12100142	12100142	
+12100142	12100142
 
 
 
@@ -275,7 +291,7 @@ JY202107167307自动审核失败！库存不足: 商家编码-12100142　名称-
 12010710
 qoydtclqdkxsbdfa
 
-89bb0d57.dongtaiyuming.net	
+89bb0d57.dongtaiyuming.net
 显示结果
 
 http://89bb0d57.dongtaiyuming.net/www.chan.com/zentaopms/www/index.php?m=user&f=login&referer=L3d3dy5jaGFuLmNvbS96ZW50YW9wbXMvd3d3L2luZGV4LnBocD9tPWJ1ZyZmPWJyb3dzZSZwcm9kdWN0SUQ9Mw==
@@ -315,10 +331,10 @@ JY202107153879自动审核失败！库存不足: 商家编码-12030822　名称-
 出库单插入失败，单据编号:CK202106126357,商品编码:12030199库存不足，可用库存量为:-222
 [好雨润物Yurun]
 
-程少波<chengsb@prolog-int.com>   
-收件人: 
+程少波<chengsb@prolog-int.com>
+收件人:
 孙权(雨润)<907460462@qq.com>
-抄送: 
+抄送:
 
 xuxiaolong <xuxiaolong@yurun.com>,   zhujiangan <zhujiangan@yurun.com>,   严俊 <yanjun@prolog-int.com>,   黄万镇 <huangwz@prolog-int.com>,   赵强 <zhaoq@prolog-int.com>,   周子昂 <zhouza@prolog-int.com>,   喻杰 <yujie@prolog-int.com>,   楚景春 <chujc@prolog-int.com>,   刘相 <liux@prolog-int.com>,   黄梅 <huangmei@prolog-int.com>,   黄俊伟 <huangjunwei@prolog-int.com>,   吴义 <wuyi@prolog-int.com>,   zhuyoumin <zhuyoumin@yurun.com>
 
@@ -976,7 +992,7 @@ CK20210524346
 CK20210523971
 CK20210523971
 紫水晶:
-YT9594416024056  CK20210523971  
+YT9594416024056  CK20210523971
 
 紫水晶:
 YT9594416024056  CK20210523971
@@ -1023,8 +1039,8 @@ CK20210524167
 YT9577912023067
 YT9577909167482
 
-CK202105171656	YT9577912023067	
-CK202105171816	YT9577909167482	
+CK202105171656	YT9577912023067
+CK202105171816	YT9577909167482
 
 
 CK202105171656
